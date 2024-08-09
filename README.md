@@ -2,7 +2,7 @@
 
 ### Eslint
  ```
-	   yarn add eslint-plugin-import-helpers eslint-import-resolver-typescript -D
+	   yarn add eslint-plugin-import-helpers eslint-import-resolver-typescript @eslint/eslintrc eslint-plugin-react -D
 ```
  ### eslint.config.cjs
  ```
